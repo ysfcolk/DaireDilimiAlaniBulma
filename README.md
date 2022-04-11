@@ -6,14 +6,14 @@ Daire Dilimi Alanı Bulan programıma hoşgeldin.Bu program [Patika Dev](www.pat
 
 Öncelikle programı clonelayın.
 
-git clone https://github.com/ysfcolk/KDVTutariHesaplama.git
+git clone https://github.com/ysfcolk/DaireDilimiAlaniBulma.git
 
 ## **Usage**
 
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız
+programı cloneladıktan sonra Visual Studio Code programında açınız
 
 ``` 
-cd KDVTutariHesaplama
+cd DaireDilimiAlaniBulma
 code .
 ``` 
 ## **Contributing**
